@@ -45,4 +45,6 @@ async def main():
         await dp.start_polling(bot)
     except Exception as e:
         print(e)
-await main()
+
+if __name__ == "__main__":
+    asyncio.run(main())
