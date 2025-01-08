@@ -1,1 +1,1 @@
-print("hello world")
+TOKEN = input("Введите токен")
