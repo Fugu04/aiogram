@@ -4,7 +4,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton, Callback
 from aiogram.filters import CommandStart, Command
 
 #from config import token
-TOKEN = "5931999116:AAGkxO8594HDwRVyjcuV5hA-9_nAQJSGng0"
+TOKEN = input("Введите токен")
 
 # Основная асинхронная функция
 async def main():
