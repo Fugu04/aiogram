@@ -1,2 +1,2 @@
 TOKEN = input("Введите токен")
-print("Ваш токен", Token)
+print("Ваш токен", TOKEN)
